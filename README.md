@@ -5,4 +5,4 @@
 ---
 Data Analytics bootcamp project 1
 ---
-![chart_1](https://github.com/sed-jackob/kickstarter-analysis/Outcomes_Based_on_Launch_Date.png)
+![chart_1](https://github.com/sed-jackob/kickstarter-analysis/blob/main/Parent_Category_Outcomes.png)
