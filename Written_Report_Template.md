@@ -24,6 +24,7 @@ Another challenge was to exclude outliers from the ***goal*** column and errors 
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 **Conclusion 1:** The best months to launch a campaign are May, June, and July.
+
 **Conclusion 2:**  The worst months to launch a campaign are December and January.
 
 ### What can you conclude about the Outcomes based on Goals?
